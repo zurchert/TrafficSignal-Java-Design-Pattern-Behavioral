@@ -1,6 +1,6 @@
 package fr.iutvalence.info.dut.m3105.preamble;
 
-public class TrafficSignal extends Thread
+public class TrafficSignal extends  Thread
 {
 	private final static int BUTTON_THRESHOLD_IN_SECONDS = 2;
 	
